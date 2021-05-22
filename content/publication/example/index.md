@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: In *Land*
 publication_short: In *Land*
 
-abstract: Rapid urbanisation in China has led to massive outmigration in rural regions, which has changed the regional labour force structure and can have various profound impacts as a result. This research used a case study in Southwest China to investigate how regional land use patterns have been changed in the context of rural outmigration and assessed the resulting dynamics on local ecological environment. The key findings include: (1) The local land conversion process was mainly characterised by the conversion of farmland (−18.3%) to residential area (+268.3%) and woodland (+55.6%) during 2000–2018; (2) about 83.7% of area showed a statistically significant increase in the normalised difference vegetation index (NDVI), which was not due to human interference factors (e.g., afforestation). Correlation analyses showed that depopulation (R = −0.514, p < 0.01) and local mild temperature (R = 0.505, p < 0.01) could be the main contributors...
+abstract: Rapid urbanisation in China has led to massive outmigration in rural regions, which has changed the regional labour force structure and can have various profound impacts as a result. This research used a case study in Southwest China to investigate how regional land use patterns have been changed in the context of rural outmigration and assessed the resulting dynamics on local ecological environment. The key findings include...
 
 # Summary. An optional shortened abstract.
 summary: This research used a case study in Southwest China to investigate how regional land use patterns have been changed in the context of rural outmigration and assessed the resulting dynamics on local ecological environment.
