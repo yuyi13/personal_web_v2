@@ -64,8 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yi Yu is an early-career researcher at the ANU Institute for Water Futures. Yi received his masters degree from the Australian National University where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of satellite-based soil moisture products from a continent scale'. Yi is currently working on continent-scale downscaling of integrated soil moisture products using multi-sourced geospatial data in machine learning approaches.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
