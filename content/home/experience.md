@@ -22,28 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Officer
+    company: ANU Institute For Water Futures
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-anu
+    location: Canberra, Australia
+    date_start: '2021-01-04'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Processing continent-scale remote sensing (RS) and soil grid data acquired from NASA, USGS and CSIRO. Establishing machine learning models by using packages from Python and R (e.g. scikit-learn and randomForest). Familiar with essential Linux commands and utilising programming modules from Gadi (a supercomputer located in the ANU campus) to complete research tasks.
+        * Undertaking testing and statistical analysis as required and preparing and disseminating relevant analysis reports to internal and external stakeholders, including external funding agencies.
+        * Participating in workshops and professional networks across campus to develop a broad base of industry knowledge, and providing input to improve the area’s research practices and processes.
 
 design:
   columns: '2'
