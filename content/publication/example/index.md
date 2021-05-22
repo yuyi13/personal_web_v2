@@ -16,7 +16,7 @@ author_notes:
 - ""
 
 date: "2020-11-11T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/land9110443"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-11T00:00:00Z"
