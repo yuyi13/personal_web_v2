@@ -66,4 +66,4 @@ highlight_name: false
 
 Yi Yu is an early-career researcher at the ANU Institute for Water Futures. Yi received his masters degree from the Australian National University where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of satellite-based soil moisture products from a continent scale'. Yi is currently working on continent-scale downscaling of integrated soil moisture products using multi-sourced geospatial data in machine learning approaches.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yuyi13/personal_web_v2/blob/master/content/authors/admin/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yuyi13/personal_web_v2/blob/master/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
