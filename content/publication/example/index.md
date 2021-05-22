@@ -11,7 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- ""
+- "Main contribution"
+- "Second contribution"
+- "Minor contribution"
 
 date: "2020-11-11T00:00:00Z"
 doi: "https://doi.org/10.3390/land9110443"
