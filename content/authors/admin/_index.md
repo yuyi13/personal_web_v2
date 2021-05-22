@@ -20,7 +20,7 @@ bio: My research interests include satellite remote sensing, machine learning an
 interests:
 - Remote Sensing
 - Soil Moisture
-- Geo-spaital Modelling
+- Geospaital Modelling
 
 # Education to show in About widget
 education:
