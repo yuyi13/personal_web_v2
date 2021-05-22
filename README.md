@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://github.com/yuyi13/personal_web_v2/blob/master/content/authors/admin/avatar.jpg" alt="Wowchemy Website Builder"></a></p>
+<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://github.com/yuyi13/personal_web_v2/blob/master/images/screenshot.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
