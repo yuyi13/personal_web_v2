@@ -1,40 +1,38 @@
 ---
-title: "Outmigration Drives Cropland Decline and Woodland Increase in Rural Regions of Southwest China"
+title: "An example conference paper"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Tingbao Xu
-- Tao Wang
+- Robert Ford
 
 # Author notes (optional)
 author_notes:
-- "Main contribution"
-- "Second contribution"
-- "Minor contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2020-11-11T00:00:00Z"
-doi: "https://doi.org/10.3390/land9110443"
+date: "2013-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-11T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Land*
-publication_short: In *Land*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Rapid urbanisation in China has led to massive outmigration in rural regions, which has changed the regional labour force structure and can have various profound impacts as a result. This research used a case study in Southwest China to investigate how regional land use patterns have been changed in the context of rural outmigration and assessed the resulting dynamics on local ecological environment. The key findings include: (1) The local land conversion process was mainly characterised by the conversion of farmland (−18.3%) to residential area (+268.3%) and woodland (+55.6%) during 2000–2018; (2) about 83.7% of area showed a statistically significant increase in the normalised difference vegetation index (NDVI), which was not due to human interference factors (e.g., afforestation). Correlation analyses showed that depopulation (R = −0.514, p < 0.01) and local mild temperature (R = 0.505, p < 0.01) could be the main contributors. Only 2.5% of the area had decreased NDVI and this was directly caused by human activities (e.g., urban area expansion). These results implied that vegetation improvement can occur in the context of depopulation and farmland reduction, which did not significantly threaten the local agricultural sector. It then could be a good choice to allow those high-slope and biophysically poor farmlands to undergo forest succession rather than cultivation. Farmers in Southwest China should make a full use of the existing low-slope arable land to curb the declining trend of local farmland amount, in order to meet the future challenges brought by urbanisation. Enhanced agricultural infrastructure, mechanised farming and guide from local government can help achieve this goal. This study provided new insights and more realistic scenarios for rural development in Southwest China. The research findings are expected to provide a better understanding to enable sustainable land use management in Southwest China.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: This research used a case study in Southwest China to investigate how regional land use patterns have been changed in the context of rural outmigration and assessed the resulting dynamics on local ecological environment.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
