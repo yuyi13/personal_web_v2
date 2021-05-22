@@ -26,9 +26,9 @@ interests:
 education:
   courses:
   - course: Master of Environment (Advanced)
-    institution: The Australian National University
+    institution: The Australian National University, Canberra, Australia
     year: 2020
-  - course: Bachelor of Land Resource Management
+  - course: Bachelor of Land Resource Management, Chongqing, China
     institution: Southwest University
     year: 2018
 
