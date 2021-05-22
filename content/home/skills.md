@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: Proficient
-  icon: R-project
+  icon: r-project
   icon_pack: fab
   name: R
 - description: Proficient
