@@ -25,7 +25,7 @@ experience:
   - title: Research Officer
     company: ANU Institute For Water Futures
     company_url: ''
-    company_logo: org-x
+    company_logo: org-anu
     location: Canberra, Australia
     date_start: '2021-01-04'
     date_end: ''
