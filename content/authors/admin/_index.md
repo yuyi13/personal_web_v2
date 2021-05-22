@@ -28,8 +28,8 @@ education:
   - course: Master of Environment (Advanced)
     institution: The Australian National University, Canberra, Australia
     year: 2020
-  - course: Bachelor of Land Resource Management, Chongqing, China
-    institution: Southwest University
+  - course: Bachelor of Land Resource Management
+    institution: Southwest University, Chongqing, China
     year: 2018
 
 # Social/Academic Networking
