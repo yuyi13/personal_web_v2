@@ -7,7 +7,7 @@ tags:
 date: "2018-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://researchers.anu.edu.au/projects/25182"
+external_link: "https://waterfutures.anu.edu.au/content/data-assimilation-awra-cms-improved-operational-and-forecast-modelling"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -26,5 +26,5 @@ url_video: ""
 # slides: example
 ---
 
-The interaction between static soil properties and dynamic climate and moisture data layers are fundamental to better modelling of agricultural productivity and sustainable landscape management. Accurate quantification of the spatial and temporal characteristic of soil moisture requires the appropriate integration of soil property information with soil water dynamics, and given the different representation of the soil profile in various models...
+The project’s main aim was to develop methods that could routinely make use of satellite sensing of soil moisture in the operational AWRA modelling system to improve water balance modelling and forecasting capability for the whole country. Three candidate satellite soil moisture data were explored: NASA-JAXA’s Soil Moisture Active Passive (SMAP); ESA’s Soil Moisture and Ocean Salinity (SMOS); and Eumetsat’s Advanced Scatterometer (ASCAT).
 
