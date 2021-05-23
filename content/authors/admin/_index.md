@@ -37,9 +37,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Yi-Yu-21
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=hXzMkAwAAAAJ&hl=en/
@@ -49,6 +46,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yi-yu-b5511a1b0/?originalSubdomain=au
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yi-Yu-21
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
