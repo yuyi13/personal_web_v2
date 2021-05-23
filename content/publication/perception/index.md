@@ -41,7 +41,7 @@ summary: This study aimed to compare farmers’ perceptions of temperature and p
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
