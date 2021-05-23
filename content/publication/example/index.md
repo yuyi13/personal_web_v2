@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/2073-445X/9/11/443/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,7 +60,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
