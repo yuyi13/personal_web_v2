@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: ""
   date_end: "2023-01-21"
   date_start: ""
   description: ""
@@ -31,7 +31,7 @@ item:
   organization_url: https://allenstraining.com.au/
   title: First Aid Certificate
   url: ""
-- certificate_url: 
+- certificate_url: ""
   date_end: "2023-01-24"
   date_start: "2020-01-24"
   description: ""
