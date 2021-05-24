@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: "2023-01-21"
-  date_start: ""
+  date_start: "2020-01-21"
   description: ""
   organization: Allens Training
   organization_url: https://allenstraining.com.au/
