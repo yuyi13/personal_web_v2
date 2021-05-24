@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Allens Training
   organization_url: https://allenstraining.com.au/
-  title: First Aid Certificate
+  title: First Aid & Basic Emergency Life Support
   url: ""
 - certificate_url: ""
   date_end: "2023-01-24"
