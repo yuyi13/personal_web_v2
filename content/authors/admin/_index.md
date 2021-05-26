@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD Candidate
     institution: The Australian National University, Australia
-    year: Present
+    year: 2021 - Present
   - course: Master of Environment (Advanced)
     institution: The Australian National University, Australia
-    year: 2020
+    year: 2018 - 2020
   - course: Bachelor of Land Resource Management
     institution: Southwest University, China
-    year: 2018
+    year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
