@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Candidate
     institution: The Australian National University, Australia
-    year: In Progress
+    year: Present
   - course: Master of Environment (Advanced)
     institution: The Australian National University, Australia
     year: 2020
