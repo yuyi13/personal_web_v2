@@ -12,6 +12,8 @@ role: Research Officer
 organizations:
 - name: The Australian National University
   url: https://www.anu.edu.au/
+- name: Commonwealth Scientific and Industrial Research Organisation
+  url: https://www.csiro.au/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include satellite remote sensing, machine learning and data assimilation.
