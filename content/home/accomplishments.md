@@ -23,21 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
-  date_end: "2023-01-21"
-  date_start: "2020-01-21"
+- certificate_url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships"
+  date_end: "2024-06-30"
+  date_start: "2021-07-01"
   description: ""
-  organization: Allens Training
-  organization_url: https://allenstraining.com.au/
-  title: First Aid & Basic Emergency Life Support
+  organization: The Australian National University
+  organization_url: https://www.anu.edu.au/
+  title: ANU University Research Scholarship
   url: ""
-- certificate_url: ""
-  date_end: "2023-01-24"
-  date_start: "2020-01-24"
+- certificate_url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
+  date_end: "2024-06-30"
+  date_start: "2021-07-01"
   description: ""
-  organization: Mental Health First Aid Australia
-  organization_url: https://mhfa.com.au/
-  title: Youth Mental Health First Aider
+  organization: Centre for Entrepreneurial Agri-Technology
+  organization_url: https://ceat.org.au/
+  title: CSIRO Digital Agricultural PhD Supplementary Scholarship
   url: ""
 
 design:
