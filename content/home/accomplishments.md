@@ -23,22 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships"
+- certificate_url: ""
   date_end: "2024-06-30"
   date_start: "2021-07-01"
   description: ""
   organization: The Australian National University
   organization_url: https://www.anu.edu.au/
   title: ANU University Research Scholarship
-  url: ""
-- certificate_url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
+  url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships"
+- certificate_url: ""
   date_end: "2024-06-30"
   date_start: "2021-07-01"
   description: ""
   organization: Centre for Entrepreneurial Agri-Technology
   organization_url: https://ceat.org.au/
   title: CSIRO Digital Agricultural PhD Supplementary Scholarship
-  url: ""
+  url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
+- certificate_url: ""
+  date_end: "2024-06-30"
+  date_start: "2021-07-01"
+  description: ""
+  organization: Institute for Water Futures
+  organization_url: https://waterfutures.anu.edu.au/
+  title: Institute for Water Futures Supplementary Scholarship
+  url: "https://waterfutures.anu.edu.au/content/student-opportunities"
 
 design:
   columns: '2' 
