@@ -43,9 +43,9 @@ item:
   date_end: "2024-06-30"
   date_start: "2021-07-01"
   description: ""
-  organization: Institute for Water Futures
+  organization: ANU Institute for Water Futures
   organization_url: https://waterfutures.anu.edu.au/
-  title: Institute for Water Futures Supplementary Scholarship
+  title: ANU Institute for Water Futures Supplementary Scholarship
   url: "https://waterfutures.anu.edu.au/content/student-opportunities"
 
 design:
