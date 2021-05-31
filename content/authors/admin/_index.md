@@ -10,8 +10,10 @@ role: Research Officer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Australian National University
-  url: https://www.anu.edu.au/
+- name: ANU Institute for Water Futures
+  url: https://waterfutures.anu.edu.au/
+- name: CSIRO Land and Water
+  url: https://www.csiro.au/en/about/people/business-units/land-and-water
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include satellite remote sensing, machine learning and data assimilation.
@@ -67,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Yi Yu is a PhD candidate at the ANU Institute for Water Futures, and an early-career researcher casually working for CSIRO. Yi received his masters degree from the Australian National University where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of satellite-based soil moisture products from a continent scale'. Yi is currently working on continent-scale downscaling of integrated soil moisture products using multi-sourced geospatial data in machine learning approaches.
+Yi Yu is a PhD candidate at the ANU Institute for Water Futures, and an early-career researcher casually working for CSIRO Land and Water (Black Mountain). Yi received his masters degree from the Australian National University where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of satellite-based soil moisture products from a continent scale'. Yi is currently working on continent-scale downscaling of integrated soil moisture products using multi-sourced geospatial data in machine learning approaches.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yuyi13/personal_web_v2/raw/master/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
