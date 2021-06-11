@@ -39,14 +39,6 @@ item:
   organization_url: https://ceat.org.au/
   title: CSIRO Digital Agricultural PhD Supplementary Scholarship
   url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
-- certificate_url: ""
-  date_end: "2024-06-30"
-  date_start: "2021-07-01"
-  description: ""
-  organization: ANU Institute for Water Futures
-  organization_url: https://waterfutures.anu.edu.au/
-  title: ANU Institute for Water Futures Supplementary Scholarship
-  url: "https://waterfutures.anu.edu.au/content/student-opportunities"
 
 design:
   columns: '2' 
