@@ -6,7 +6,7 @@ title: Yi Yu
 superuser: true
 
 # Role/position/tagline
-role: Research Officer
+role: PhD Candidate & Research Officer
 
 # Organizations/Affiliations to show in About widget
 organizations:
