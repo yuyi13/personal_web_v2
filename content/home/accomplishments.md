@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Centre for Entrepreneurial Agri-Technology
   organization_url: https://ceat.org.au/
-  title: CSIRO Digital Agricultural PhD Supplementary Scholarship
+  title: CSIRO-ANU Digital Agricultural PhD Supplementary Scholarship
   url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
 
 design:
