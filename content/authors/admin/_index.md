@@ -12,8 +12,8 @@ role: Research Officer
 organizations:
 - name: ANU Institute for Water Futures
   url: https://waterfutures.anu.edu.au/
-- name: CSIRO Land and Water
-  url: https://www.csiro.au/en/about/people/business-units/land-and-water
+- name: CSIRO Agriculture and Food
+  url: https://www.csiro.au/en/about/people/business-units/agriculture-and-food
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include earth observation data modelling, machine learning and data assimilation.
@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Yi Yu is a PhD candidate at the ANU Institute for Water Futures and CSIRO Land and Water (Black Mountain). Yi received his masters degree from the Australian National University where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of satellite-based soil moisture products from a continent scale'. Yi's PhD project focuses on continent-scale downscaling of satellite soil moisture products using multi-source geospatial data in machine learning and statistical approaches. He is also a casual researcher working on ANU's Satellite-based Global Root-zone moisture Analysis & Forecasting System (S-GRAFS).
+Yi Yu is a PhD candidate at the ANU Institute for Water Futures and CSIRO Agriculture and Food. Yi received his masters degree from the Australian National University where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of satellite-based soil moisture products from a continent scale'. Yi's PhD project focuses on continent-scale downscaling of satellite soil moisture products using multi-source geospatial data in machine learning and statistical approaches. He is also a casual researcher working on ANU's Satellite-based Global Root-zone moisture Analysis & Forecasting System (S-GRAFS).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yuyi13/personal_web_v2/raw/master/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
