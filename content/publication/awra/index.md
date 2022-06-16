@@ -29,13 +29,13 @@ publishDate: "2021-12-17T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *MODSIM2021*
+publication: In *24th International Congress on Modelling and Simulation, Sydney, Australia.*
 publication_short: In *MODSIM2021*
 
-abstract: Farmers are among the most vulnerable groups that need to adapt to climate change. Correct perception is a prerequisite for farmers to adopt adaptation strategies, which plays a crucial guiding role in the development of adaptation plans and the improvement of the security of livelihoods. This study aimed to compare farmers’ perceptions of temperature and precipitation change with meteorological data in two regions of the Tibetan Plateau, analyzed how irrigation affects farmers’ perceptions. The key findings include...
+abstract: The Australian Water Resource Assessment Landscape (AWRA-L) model as used by the Bureau of Meteorology (BoM) provides daily continental scale soil moisture (SM) estimates (among other landscape water variables) at ~5-km resolution. At such a coarse scale these data cannot represent the high spatiotemporal variability of SM across heterogeneous land surfaces. Downscaling of coarse SM products based on machine learning (ML) has become increasingly popular due to its robust predictions and potential for large-scale applications. As a first step towards high-resolution daily Australia-wide SM estimation, a downscaling framework was developed to generate monthly SM with 500-m spatial resolution using analysed SM from AWRA-L and multisource geospatial predictors in random forest (RF) regression. Candidate predictors include digital elevation model (DEM), soil properties from the Australian soil and landscape grids, and several retrievals from the MODerate-resolution Imaging Spectroradiometer (MODIS). Ten experiments were conducted to decide the best combination of predictors...
 
 # Summary. An optional shortened abstract.
-summary: This study aimed to compare farmers’ perceptions of temperature and precipitation change with meteorological data in two regions of the Tibetan Plateau, analyzed how irrigation affects farmers’ perceptions.
+summary: The downscaled SM shows greatly enhanced spatial details at the local scale while maintaining consistent patterns with AWRA-L analysis at the continental scale. Validations against in-situ measurement networks using Pearson correlation coefficient (R) show that there is very little difference in the performance between the downscaled and AWRA-L SM.
 
 tags: []
 
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.mdpi.com/2071-1050/12/19/8164/pdf'
+url_pdf: '[https://openresearch-repository.anu.edu.au/bitstream/1885/258572/1/Continental%20scale%20downscaling%20of%20AWRA-L.pdf]'
 url_code: ''
 url_dataset: ''
 url_poster: ''
