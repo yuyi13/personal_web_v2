@@ -32,14 +32,21 @@ item:
   title: ANU University Research Scholarship
   url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships"
 - certificate_url: ""
-  date_end: "2024-06-30"
-  date_start: "2021-07-01"
+  date_end: "2025-02-01"
+  date_start: "2021-08-01"
   description: ""
   organization: Centre for Entrepreneurial Agri-Technology
   organization_url: https://ceat.org.au/
   title: CSIRO-ANU Digital Agricultural PhD Supplementary Scholarship
   url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
-
+- certificate_url: ""
+  date_end: "2021-01-31"
+  date_start: "2020-02-01"
+  description: ""
+  organization: UniLodge Australia
+  organization_url: ""
+  title: ANU UniLodge Senior Resident Scholarship
+  url: ""
 design:
   columns: '2' 
 ---
