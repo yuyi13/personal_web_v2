@@ -26,7 +26,7 @@ experience:
   - title: PhD Postgraduate Student
     company: CSIRO Agriculture and Food
     company_url: ''
-    company_logo: org-csiro
+    company_logo: ''
     location: Canberra, Australia
     date_start: '2021-07-01'
     date_end: ''
@@ -53,7 +53,7 @@ experience:
   - title: Senior Resident
     company: UniLodge Australia
     company_url: ''
-    company_logo: org-unilodge
+    company_logo: ''
     location: Canberra, Australia
     date_start: '2020-02-01'
     date_end: '2021-01-31'
