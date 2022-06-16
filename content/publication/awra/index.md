@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '[https://openresearch-repository.anu.edu.au/bitstream/1885/258572/1/Continental%20scale%20downscaling%20of%20AWRA-L.pdf]'
+url_pdf: 'https://www.mssanz.org.au/modsim2021/papers/J10/yu.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
