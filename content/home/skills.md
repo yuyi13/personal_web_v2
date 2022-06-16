@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Expert
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Proficient
   icon: r-project
   icon_pack: fab
   name: R
+- description: Advanced
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: Proficient
   icon: linux
   icon_pack: fab
