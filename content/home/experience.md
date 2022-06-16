@@ -58,6 +58,7 @@ experience:
     date_start: '2020-02-01'
     date_end: '2021-01-31'
     description: |2-
+        Key skills acquired: Emotional Intelligence, Collaboration, Leadership, Self Care, Time Management.
         
         * Acting as a residential leader who is front-liner in delivering pastoral care to university students on campus.
         * Responding timely to first-aid emergencies, fire drills and evacuations; Responsible for immediate referral to the relevant emergency body.
