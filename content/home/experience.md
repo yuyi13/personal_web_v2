@@ -26,7 +26,7 @@ experience:
   - title: PhD Postgraduate Student
     company: CSIRO Agriculture and Food
     company_url: ''
-    company_logo: ''
+    company_logo: org-csiro
     location: Canberra, Australia
     date_start: '2021-07-01'
     date_end: ''
