@@ -53,7 +53,7 @@ experience:
   - title: Senior Resident
     company: UniLodge Australia
     company_url: ''
-    company_logo: ''
+    company_logo: org-unilodge
     location: Canberra, Australia
     date_start: '2020-02-01'
     date_end: '2021-01-31'
