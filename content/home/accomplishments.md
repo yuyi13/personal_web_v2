@@ -41,8 +41,8 @@ item:
   url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
 - certificate_url: ""
   date_end: ""
-  date_start: "2020, 2023"
-  description: ""
+  date_start: "2020-02-01"
+  description: "2024-12-15"
   organization: UniLodge Australia
   organization_url: ""
   title: ANU UniLodge Senior Resident Scholarship
