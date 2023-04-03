@@ -32,9 +32,9 @@ experience:
     date_end: ''
     description: |2-
         
-        * Committing two days per week as an CSIRO team member to industry-aligned projects that address interdisciplinary issues over agricultural innovation and soil science fields which cannot be solved using business as usual approaches.
-        * Establishing the geo-database, including in-situ measurement, drone, satellite, and proximal observations, as well as soil and landscape grids of Australia, to enable spatiotemporal modelling of soil water dynamics for key growing regions in Australia.
-        * Conducting research tasks as required and conferring with clerical and supervisory personnel to gather suggestions for improvements.
+        * Committing two days per week as part of the CSIRO A&F Prediction team to work on industry-aligned projects that address interdisciplinary challenges in agricultural innovation and soil science using statistical approaches and high-performance computing resources.
+        * Establishing the geo-database using data from in-situ measurement, drone, satellite, and proximal observations, as well as the Soil and Landscape Grids of Australia, to enable spatiotemporal modelling of soil water dynamics for key growing regions in Australia.
+        * Conducting research tasks as assigned and consulting with administrative and supervisory staff to gather ideas for improvements.
 
   - title: Research Officer
     company: ANU Institute For Water Futures
@@ -56,7 +56,7 @@ experience:
     company_logo: org-unilodge
     location: Canberra, Australia
     date_start: '2020-02-01'
-    date_end: '2021-01-31'
+    date_end: ''
     description: |2-
         Key skills acquired: Emotional Intelligence, Collaboration, Leadership, Self Care, Time Management.
         
