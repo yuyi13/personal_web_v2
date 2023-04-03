@@ -54,6 +54,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yi-Yu-21
+- icon: twitter
+  icon_pack: ai
+  link: https://twitter.com/yy_nash13
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
