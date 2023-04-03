@@ -55,7 +55,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yi-Yu-21
 - icon: twitter
-  icon_pack: ai
+  icon_pack: fab
   link: https://twitter.com/yy_nash13
 
 # Link to a PDF of your resume/CV.
