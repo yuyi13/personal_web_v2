@@ -40,9 +40,9 @@ item:
   title: ANU-CSIRO Digital Agriculture PhD Supplementary Scholarship
   url: "https://www.anu.edu.au/study/scholarships/find-a-scholarship/digital-agriculture-phd-supplementary-scholarship"
 - certificate_url: ""
-  date_end: ""
+  date_end: "2024-12-15"
   date_start: "2020-02-01"
-  description: "2024-12-15"
+  description: ""
   organization: UniLodge Australia
   organization_url: ""
   title: ANU UniLodge Senior Resident Scholarship
