@@ -31,10 +31,15 @@ experience:
     date_start: '2021-07-01'
     date_end: ''
     description: |2-
-        
-        * Committing two days per week as part of the CSIRO A&F Prediction team to work on industry-aligned projects that address interdisciplinary challenges in agricultural innovation and soil science using statistical approaches and high-performance computing resources.
-        * Establishing the geo-database using data from in-situ measurement, drone, satellite, and proximal observations, as well as the Soil and Landscape Grids of Australia, to enable spatiotemporal modelling of soil water dynamics for key growing regions in Australia.
-        * Conducting research tasks as assigned and consulting with administrative and supervisory staff to gather ideas for improvements.
+
+  - title: Academic Tutor
+    company: ANU Fenner School of Environment & Society
+    company_url: ''
+    company_logo: org-anu
+    location: Canberra, Australia
+    date_start: '2022-07-01'
+    date_end: '2022-11-01'
+    description: |2-
 
   - title: Research Officer
     company: ANU Institute For Water Futures
@@ -44,11 +49,6 @@ experience:
     date_start: '2021-01-04'
     date_end: '2022-01-07'
     description: |2-
-        Responsibilities include:
-        
-        * Processing continent-scale satellite retrievals and land surface observations acquired from Geoscience Australia, NASA and CSIRO. Demonstrating expert-level spatial analysis skills using R and Python. Proficient with essential Linux commands and utilising programming modules from the Gadi supercomputer to complete research tasks.
-        * Undertaking testing and statistical analysis as required and preparing and disseminating relevant analysis reports to internal and external stakeholders, including external funding agencies.
-        * Participating in workshops and professional networks across campus to develop a broad base of industry knowledge, and providing input to improve the area’s research practices and processes.
 
   - title: Senior Resident
     company: UniLodge Australia
@@ -58,11 +58,6 @@ experience:
     date_start: '2020-02-01'
     date_end: '2021-01-31'
     description: |2-
-        Key skills acquired: Emotional Intelligence, Collaboration, Leadership, Self Care, Time Management.
-        
-        * Acting as a residential leader who is front-liner in delivering pastoral care to university students on campus.
-        * Responding timely to first-aid emergencies, fire drills and evacuations; Responsible for immediate referral to the relevant emergency body.
-        * Organising lodge events and actively committing to an inclusive community; Providing mental health advice and personal assistance to residents on the assigned floor through regular catch-ups.
 
 design:
   columns: '2'
