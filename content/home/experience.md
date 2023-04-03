@@ -55,8 +55,8 @@ experience:
     company_url: ''
     company_logo: org-unilodge
     location: Canberra, Australia
-    date_start: ''
-    date_end: '2021-01-31'
+    date_start: '2020-02-01'
+    date_end: ''
     description: |2-
 
 design:
