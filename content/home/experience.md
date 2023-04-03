@@ -56,7 +56,7 @@ experience:
     company_logo: org-unilodge
     location: Canberra, Australia
     date_start: '2020-02-01'
-    date_end: ''
+    date_end: '2021-01-31'
     description: |2-
         Key skills acquired: Emotional Intelligence, Collaboration, Leadership, Self Care, Time Management.
         
