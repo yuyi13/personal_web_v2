@@ -16,13 +16,13 @@ organizations:
   url: https://www.csiro.au/en/about/people/business-units/agriculture-and-food
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include earth observation data modelling, machine learning and data assimilation.
+bio: My research interests include earth observation data modelling and remote sensing.
 
 # Interests to show in About widget
 interests:
+- Earth Observations
 - Remote Sensing
 - Soil Moisture
-- Geospaital Modelling
 
 # Education to show in About widget
 education:
@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Yi Yu is a PhD candidate under an academic collaboration between the ANU Institute for Water Futures and CSIRO Agriculture and Food. Yi received his masters degree from the Australian National University in 2020, where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of remotely sensed observations from a continent scale'. Yi's PhD project is to explore the spatiotemporal scaling question of soil moisture modelling through the utilisation of satellite observations, and hence to develop a next-generation model with a hyper resolution. He was also a casual research officer working on an ANU-CSIRO Himawari-8 project which aims at developing best-practice Himawari data products for enhanced sub-daily monitoring of Australia’s ecosystems.
+Yi Yu is a PhD student under an academic collaboration between the ANU Institute for Water Futures and CSIRO Agriculture and Food. Yi received his masters degree from the Australian National University in 2020, where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of remotely sensed observations from a continent scale'. Yi's PhD project is to explore the spatiotemporal scaling question of soil moisture modelling through the utilisation of satellite observations, and hence to develop a next-generation model with a hyper resolution. He was also a casual research officer working on an ANU-CSIRO Himawari-8 project which aims at developing best-practice Himawari data products for enhanced sub-daily monitoring of Australia’s ecosystems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://yuyi13.github.io/personal_web_v2/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
