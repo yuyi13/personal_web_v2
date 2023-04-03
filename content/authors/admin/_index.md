@@ -6,7 +6,7 @@ title: Yi Yu
 superuser: true
 
 # Role/position/tagline
-role: Research Officer
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate
+  - course: PhD Student
     institution: The Australian National University, Australia
     year: 2021 - Present
   - course: Master of Environment (Advanced)
@@ -72,4 +72,4 @@ highlight_name: false
 Yi Yu is a PhD candidate under an academic collaboration between the ANU Institute for Water Futures and CSIRO Agriculture and Food. Yi received his masters degree from the Australian National University in 2020, where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable better spatiotemporal performance of remotely sensed observations from a continent scale'. Yi's PhD project is to explore the spatiotemporal scaling question of soil moisture modelling through the utilisation of satellite observations, and hence to develop a next-generation model with a hyper resolution. He was also a casual research officer working on an ANU-CSIRO Himawari-8 project which aims at developing best-practice Himawari data products for enhanced sub-daily monitoring of Australia’s ecosystems.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/yuyi13/personal_web_v2/raw/master/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "https://yuyi13.github.io/personal_web_v2/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
