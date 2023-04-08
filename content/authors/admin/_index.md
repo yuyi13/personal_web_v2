@@ -77,4 +77,4 @@ Yi Yu is a PhD student under an academic collaboration between the ANU Institute
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://yuyi13.github.io/personal_web_v2/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="email" pack="fas" >}} Contact me at yi.yu1@anu.edu.au
+{{< icon name="envelope" pack="fas" >}} Contact me at yi.yu1@anu.edu.au
