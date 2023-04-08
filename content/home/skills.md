@@ -27,7 +27,7 @@ feature:
 - description: Proficient
   icon: linux
   icon_pack: fab
-  name: Linux
+  name: HPC
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
