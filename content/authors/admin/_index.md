@@ -16,13 +16,17 @@ organizations:
   url: https://www.csiro.au/en/about/people/business-units/agriculture-and-food
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include earth observation data modelling and remote sensing.
+bio: My research interests include earth observation modelling and remote sensing.
 
 # Interests to show in About widget
 interests:
 - Earth Observations
 - Remote Sensing
 - Soil Moisture
+
+# Email to show in About widget
+email:
+- yi.yu1@anu.edu.au
 
 # Education to show in About widget
 education:
@@ -66,7 +70,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yi.yu1@anu.edu.au"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
