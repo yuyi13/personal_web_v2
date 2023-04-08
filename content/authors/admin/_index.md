@@ -66,7 +66,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yi.yu1@anu.edu.au"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
