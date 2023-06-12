@@ -27,8 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Data assimilation, Spatiotemporal fusion
-    tag: Data assimilation, Spatiotemporal fusion
+  - name: Data assimilation; Spatiotemporal fusion
+    tag: Data assimilation
+    tag: Spatiotemporal fusion
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
