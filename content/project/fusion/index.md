@@ -25,3 +25,4 @@ url_video: ""
 # slides: example
 ---
 
+We proposed an unbiased variant of a spatiotemporal fusion approach to better accommodate the temporal dynamics of land surface temperature.
