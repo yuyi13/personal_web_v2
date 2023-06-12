@@ -2,7 +2,7 @@
 title: An unbiased spatiotemporal fusion approach to generate daily 100 m spatial resolution land surface temperature over a continental scale
 summary:
 tags:
-- Spatiotemporal fusion
+- Code
 date: "2023-06-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
