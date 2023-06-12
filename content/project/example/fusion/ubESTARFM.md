@@ -6,7 +6,7 @@ tags:
 date: "2023-06-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://waterfutures.anu.edu.au/content/data-assimilation-awra-cms-improved-operational-and-forecast-modelling"
+external_link: "https://github.com/yuyi13/ubESTARFM"
 
 image:
   caption: 
