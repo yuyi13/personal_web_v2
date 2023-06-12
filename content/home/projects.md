@@ -27,8 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Data assimilation; Spatiotemporal fusion
+  - name: Data assimilation
     tag: Data assimilation
+  - name: Spatiotemporal fusion
     tag: Spatiotemporal fusion
 
 design:
