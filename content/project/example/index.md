@@ -2,8 +2,7 @@
 title: Data assimilation into the AWRA-CMS for improved operational and forecast modelling
 summary:
 tags:
-- Data Assimilation
-- Soil moisture
+- Data assimilation
 date: "2018-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
