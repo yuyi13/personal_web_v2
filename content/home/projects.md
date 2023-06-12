@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Data assimilation
-    tag: Data assimilation
-  - name: Spatiotemporal fusion
-    tag: Spatiotemporal fusion
+  - name: Code
+    tag: Code
+  - name: Data
+    tag: Data
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
