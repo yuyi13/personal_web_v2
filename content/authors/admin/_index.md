@@ -16,7 +16,7 @@ organizations:
   url: https://www.csiro.au/en/about/people/business-units/agriculture-and-food
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ecohydrological modelling using earth observations and remote sensing.
+bio: My research interests include remote sensing, data fusion and land surface modelling.
 
 # Interests to show in About widget
 interests:
