@@ -9,7 +9,7 @@ date: "2023-06-12T00:00:00Z"
 external_link: "https://github.com/yuyi13/ubESTARFM"
 
 image:
-  caption: A fusion example.
+  caption:
   focal_point:
 
 url_code: ""
