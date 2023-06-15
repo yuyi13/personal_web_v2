@@ -1,5 +1,5 @@
 ---
-title: An unbiased spatiotemporal fusion approach to generate daily 100 m spatial resolution land surface temperature over a continental scale
+title: An unbiased spatiotemporal fusion approach for land surface temperature
 summary:
 tags:
 - Code
@@ -9,7 +9,7 @@ date: "2023-06-12T00:00:00Z"
 external_link: "https://github.com/yuyi13/ubESTARFM"
 
 image:
-  caption: 
+  caption: A fusion example.
   focal_point:
 
 url_code: ""
