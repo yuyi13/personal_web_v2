@@ -23,6 +23,7 @@ interests:
 - Earth Observation
 - Remote Sensing
 - Ecohydrology
+- Geostatistics
 
 # Education to show in About widget
 education:
