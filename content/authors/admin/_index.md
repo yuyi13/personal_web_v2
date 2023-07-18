@@ -1,4 +1,4 @@
-![image](https://github.com/yuyi13/personal_web_v2/assets/72683152/64615ff4-9d7d-4000-923e-7b8089f93610)---
+---
 # Display name
 title: Yi Yu
 
