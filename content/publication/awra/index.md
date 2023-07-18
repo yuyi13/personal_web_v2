@@ -6,7 +6,7 @@ title: "Continental scale downscaling of AWRA-L analysed soil moisture using ran
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Luigi Renzullo
+- Luigi J. Renzullo
 - Siyuan Tian
 
 # Author notes (optional)
