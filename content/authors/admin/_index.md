@@ -23,7 +23,7 @@ interests:
 - Earth Observation
 - Remote Sensing
 - Ecohydrology
-- Geostatistics
+- AI4Science
 
 # Education to show in About widget
 education:
