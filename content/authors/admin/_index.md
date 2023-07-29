@@ -23,12 +23,12 @@ interests:
 - Earth Observation
 - Remote Sensing
 - Ecohydrology
-- AI4Science
+- Geostatistics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Student
+  - course: PhD - Hydrology and Remote Sensing
     institution: The Australian National University, Australia
     year: 2021 - Present
   - course: Master of Environment (Advanced)
