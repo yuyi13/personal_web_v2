@@ -16,7 +16,7 @@ organizations:
   url: https://www.csiro.au/en/about/people/business-units/agriculture-and-food
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing, data fusion and land surface modelling.
+bio: My research interests include earth observation, remote sensing, ecohydrology and geostatistics.
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD - Hydrology and Remote Sensing
+  - course: Doctor of Philosophy
+    major: Hydrology and Remote Sensing
     institution: The Australian National University, Australia
     year: 2021 - Present
   - course: Master of Environment (Advanced)
