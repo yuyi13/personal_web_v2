@@ -28,8 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Philosophy
-    major: Hydrology and Remote Sensing
+  - course: Doctor of Philosophy - Hydrology and Remote Sensing
     institution: The Australian National University, Australia
     year: 2021 - Present
   - course: Master of Environment (Advanced)
