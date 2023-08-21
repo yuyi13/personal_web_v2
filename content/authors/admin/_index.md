@@ -34,7 +34,7 @@ education:
   - course: Master of Environment (Advanced)
     institution: The Australian National University, Australia
     year: 2018 - 2020
-  - course: Bachelor of Land Resource Management
+  - course: Bachelor of Land Resources Management
     institution: Southwest University, China
     year: 2014 - 2018
 
@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Yi Yu is a PhD student under an academic collaboration between the Australian National University (ANU) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO). Yi received a B.Mgmt. degree in Land Resource Management from Southwest University in 2018 and an M.Sc. degree in Environment (Advanced) from The Australian National University in 2020, where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to enable a better spatiotemporal performance of earth observations from a continental scale'. Yi's PhD project is to explore the spatiotemporal scaling question of terrestrial surface energy & soil moisture modelling for continental Australia using remotely sensed observations. He was also a casual research officer working on an ANU-CSIRO Himawari-8 project which aims at developing best-practice geostationary data products for enhanced sub-daily monitoring of Australia’s ecosystems.
+Yi Yu is a PhD student under an academic collaboration between the Australian National University (ANU) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO). Yi received a B.Mgmt. degree in Land Resources Management from Southwest University in 2018 and an M.Sc. degree in Environment (Advanced) from The Australian National University in 2020, where he developed great interests in remote sensing and geospatial modelling. His research interests can be summarised as 'to better understand spatiotemporal variability of earth observations from a continental scale'. Yi's PhD project is to explore the role of land surface temperature in improving spatiotemporal predictability of soil moisture-related stress in vegetation. He is also working on an ANU-CSIRO Himawari-8 project which aims at developing best-practice geostationary data products for enhanced sub-daily monitoring of Australia’s ecosystems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://yuyi13.github.io/personal_web_v2/assets/media/Yi_YU_Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
