@@ -22,7 +22,7 @@ feature:
   name: Remote sensing
 - description: Expert
   icon: earth-asia
-  icon_pack: fas
+  icon_pack: fa
   name: Earth observation
 - description: Expert
   icon: r-project
@@ -38,7 +38,7 @@ feature:
   name: Python
 - description: Proficient
   icon: cloud-arrow-up
-  icon_pack: fas
+  icon_pack: fa
   name: Cloud computing
 
 # Uncomment to use emoji icons.
