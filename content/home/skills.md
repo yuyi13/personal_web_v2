@@ -30,7 +30,7 @@ feature:
   name: HPC
 - description: Proficient
   icon: cloud
-  icon_pack: fab
+  icon_pack: fas
   name: Cloud computing
 
 # Uncomment to use emoji icons.
