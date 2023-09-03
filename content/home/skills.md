@@ -22,7 +22,7 @@ feature:
   name: Remote sensing
 - description: Expert
   icon: earth
-  icon_pack: fas
+  icon_pack: far
   name: Earth observation
 - description: Expert
   icon: r-project
