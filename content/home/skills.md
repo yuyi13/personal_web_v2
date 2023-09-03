@@ -21,8 +21,8 @@ feature:
   icon_pack: fas
   name: Remote sensing
 - description: Expert
-  icon: globe
-  icon_pack: fas
+  icon: "earth-asia"
+  icon_pack: "fas"
   name: Earth observation
 - description: Expert
   icon: r-project
