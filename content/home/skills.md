@@ -24,10 +24,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: Proficient
+- description: Expert
   icon: linux
   icon_pack: fab
   name: HPC
+- description: Proficient
+  icon: cloud
+  icon_pack: fab
+  name: Cloud computing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
