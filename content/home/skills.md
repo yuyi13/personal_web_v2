@@ -17,19 +17,27 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Expert
+  icon: satellite
+  icon_pack: fas
+  name: Remote sensing
+- description: Expert
+  icon: earth-asia
+  icon_pack: fas
+  name: Earth observation
+- description: Expert
   icon: r-project
   icon_pack: fab
   name: R
-- description: Advanced
-  icon: python
-  icon_pack: fab
-  name: Python
 - description: Expert
   icon: linux
   icon_pack: fab
   name: HPC
+- description: Advanced
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: Proficient
-  icon: cloud
+  icon: cloud-arrow-up
   icon_pack: fas
   name: Cloud computing
 
