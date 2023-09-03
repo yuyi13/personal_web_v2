@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Remote sensing
 - description: Expert
-  icon: earth
+  icon: earth-asia
   icon_pack: far
   name: Earth observation
 - description: Expert
