@@ -52,9 +52,9 @@ item:
   date_start: "2020-02-01"
   description: ""
   organization: UniLodge Australia
-  organization_url: ""
-  title: ANU UniLodge Senior Resident Scholarship
-  url: ""
+  organization_url: "https://study.anu.edu.au/accommodation/our-residences/warrumbul-lodge"
+  title: ANU Residential Scholarship
+  url: "https://study.anu.edu.au/scholarships/find-scholarship/anu-residential-scholarship"
 design:
   columns: '2' 
 ---
