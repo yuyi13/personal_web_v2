@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
+- certificate_url: "https://yuyi13.github.io/personal_web_v2/assets/media/AF-Certificate-Award-Next-Gen-Science.pdf"
   date_end: ""
   date_start: "2023-12-15"
   description: ""
   organization: CSIRO Agriculture and Food
   organization_url: https://www.csiro.au/en/about/people/business-units/agriculture-and-food
-  title: Next Generation Science
-  url: "https://yuyi13.github.io/personal_web_v2/assets/media/AF-Certificate-Award-Next-Gen-Science.pdf"
+  title: Director's Award - Next Generation Science
+  url: ""
 - certificate_url: ""
   date_end: "2024-06-30"
   date_start: "2021-07-01"
